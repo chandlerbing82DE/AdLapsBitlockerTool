@@ -39,4 +39,3 @@ A powerful, asynchronous Windows Forms desktop application to query Local Admini
 - **Framework:** .NET 10.0 (Windows Forms)
 - **Abhängigkeiten:** `System.DirectoryServices`
 - **Architektur:** Vollständig asynchrones Thread-Management (`Task.Run`, `Progress<T>`), wodurch die Benutzeroberfläche auch bei großen LDAP-Abfragen flüssig und blockierungsfrei bleibt.
-"""
