@@ -40,7 +40,3 @@ A powerful, asynchronous Windows Forms desktop application to query Local Admini
 - **Abhängigkeiten:** `System.DirectoryServices`
 - **Architektur:** Vollständig asynchrones Thread-Management (`Task.Run`, `Progress<T>`), wodurch die Benutzeroberfläche auch bei großen LDAP-Abfragen flüssig und blockierungsfrei bleibt.
 """
-
-with open("Readme-v2.md", "w", encoding="utf-8") as f:
-    f.write(readme_v2_content)
-print("Readme-v2.md generated successfully.")
