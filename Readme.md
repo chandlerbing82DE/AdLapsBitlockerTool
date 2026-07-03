@@ -1,4 +1,4 @@
-readme = """# AD LAPS & BitLocker Abfrage-Tool
+## AD LAPS & BitLocker Abfrage-Tool
 
 A powerful, asynchronous Windows Forms desktop application to query Local Administrator Password Solution (LAPS) passwords and BitLocker Recovery Keys directly from Active Directory.
 
